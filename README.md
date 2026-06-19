@@ -169,11 +169,7 @@ Advanced-Excel-Sales-Dashboard/
 
 📈 Data Analytics Enthusiast
 
-🔗 GitHub: https://github.com/yourusername
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ## 🏷️ Tags
 
