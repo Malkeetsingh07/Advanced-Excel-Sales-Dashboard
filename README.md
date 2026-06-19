@@ -113,17 +113,6 @@ The dashboard enables users to answer important business questions such as:
 * Which categories are driving business growth?
 * What are the current sales trends and patterns?
 
----
-
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshots below.
-
-### 📊 Main Dashboard
-
-![Dashboard Preview](images/dashboard-preview.png)
-
----
 
 ## 📁 Project Structure
 
