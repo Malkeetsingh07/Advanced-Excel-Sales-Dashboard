@@ -6,6 +6,10 @@
 
 ![Advanced Excel Sales Dashboard](dashboard_only.png)
 
+## 🎥 Video Demo
+
+👉 [Watch Dashboard Demo on YouTube](https://youtu.be/M9cwmW33S8c?si=K6XbhtkJXwIp9v0k)
+
 ## 🚀 Overview
 
 The **Advanced Excel Sales Dashboard** is a comprehensive business analytics solution built in **Microsoft Excel** to transform raw sales data into meaningful insights. Designed for decision-makers, analysts, and business professionals, the dashboard provides an interactive and visually engaging platform for monitoring key performance indicators (KPIs), analyzing revenue trends, evaluating product performance, and identifying growth opportunities.
